@@ -17,7 +17,7 @@
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img alt="Python" src ="https://img.shields.io/badge/Python.svg?&style=for-the-badge&logo=#3776AB&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
